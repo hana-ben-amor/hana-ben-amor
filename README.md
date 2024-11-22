@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile!)  
+ ![github-header-image](https://github.com/user-attachments/assets/24f3a8fb-a04d-4c04-87a0-4c3d3567f82b)
+
 
 🎓 **Software Engineering Student** | 🌍 Based in **Monastir, Tunisia**  
 
