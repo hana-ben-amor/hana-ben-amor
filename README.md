@@ -16,7 +16,6 @@
 ## 🔥 Top Languages & Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hana-ben-amor&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hana-ben-amor&show_icons=true&theme=radical)  
 
 
 ## 📜 **Certifications**  
