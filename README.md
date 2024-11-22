@@ -2,15 +2,40 @@
 
 <!--
 **hana-ben-amor/hana-ben-amor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Hana Ben Amor ✨  
 
-Here are some ideas to get you started:
+![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile!)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Software Engineering Student** | 🌍 Based in **Monastir, Tunisia**  
+
+📬 **Contact:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hana-ben-amor)  
+[![GitHub](https://img.shields.io/badge/GitHub-Visit-darkgreen)](https://github.com/hana-ben-amor)  
+
+---
+
+## 🌟 **About Me**  
+👋 Hi! I'm **Hana Ben Amor**, a passionate **Software Engineering Student** specializing in **DevOps**, **Cloud**, and **Full Stack Development**. I thrive on learning new technologies, building impactful projects, and solving real-world problems.
+
+---
+
+## 🛠️ **Technical Skills**  
+
+- **DevOps Tools:** Docker 🐳, Kubernetes, Jenkins, Ansible, Prometheus 📊  
+- **Cloud Technologies:** AWS ☁️, Azure, Terraform  
+- **Programming Languages:** Java ☕, Python 🐍, JavaScript  
+- **Web Development:** Spring Boot, React, Angular  
+
+---
+
+## 📜 **Certifications**  
+- 🌐 **AWS Certified Solutions Architect - Associate**  
+- 🌐 **AWS Certified Cloud Practitioner**  
+- 🔐 **HashiCorp Terraform Associate 003**  
+- 📡 **CCNA v2**  
+
+---
+
+
+🚀 **Let’s Collaborate and Build Amazing Projects Together!**  
+✨ Feel free to explore my repositories and connect with me!
