@@ -13,14 +13,11 @@
 
 ---
 
-## 🛠️ **Technical Skills**  
+## 🔥 Top Languages & Stats  
 
-- **DevOps Tools:** Docker 🐳, Kubernetes, Jenkins, Ansible, Prometheus 📊  
-- **Cloud Technologies:** AWS ☁️, Azure, Terraform  
-- **Programming Languages:** Java ☕, Python 🐍, JavaScript,C#
-- **Web Development:** Spring Boot, React, Angular,Symfony,.NET,NodeJs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hana-ben-amor&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hana-ben-amor&show_icons=true&theme=radical)  
 
----
 
 ## 📜 **Certifications**  
 - 🌐 **AWS Certified Solutions Architect - Associate**  
