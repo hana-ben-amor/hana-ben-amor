@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**hana-ben-amor/hana-ben-amor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# ✨ Hana Ben Amor ✨  
 
 ![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile!)  
 
