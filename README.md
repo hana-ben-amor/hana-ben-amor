@@ -4,7 +4,7 @@
 🎓 **Software Engineering Student** | 🌍 Based in **Monastir, Tunisia**  
 
 📬 **Contact:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hana-ben-amor)  [![GitHub](https://img.shields.io/badge/GitHub-Visit-darkgreen)](https://github.com/hana-ben-amor)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hana-ben-amor-b738771ab/)  [![GitHub](https://img.shields.io/badge/GitHub-Visit-darkgreen)](https://github.com/hana-ben-amor)  
 
 ---
 
