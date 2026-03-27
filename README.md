@@ -1,5 +1,3 @@
-![github-banner](https://github.com/user-attachments/assets/24f3a8fb-a04d-4c04-87a0-4c3d3567f82b)
-
 <h1 align="center">Hi, I'm Hana Ben Amor 👋</h1>
 <h3 align="center">Full Stack Engineer · GreenTech · AI · Cloud</h3>
 
