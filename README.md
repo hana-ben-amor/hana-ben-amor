@@ -1,7 +1,7 @@
  ![github-banner](https://github.com/user-attachments/assets/24f3a8fb-a04d-4c04-87a0-4c3d3567f82b)
 
 
-🎓 **Software Engineering Student** | 🌍 Based in **Monastir, Tunisia**  
+🎓 **Full Stack Engineer ** | 🌍 Based in **Monastir, Tunisia**  
 
 📬 **Contact:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hana-ben-amor-b738771ab/)  [![GitHub](https://img.shields.io/badge/GitHub-Visit-darkgreen)](https://github.com/hana-ben-amor)  
